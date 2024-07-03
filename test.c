@@ -3,7 +3,12 @@
 
 int main(void)
 {
+
 	int nmber =0;
  	number = PI;
+
+	int i =0;
+	i++;
+
 	return 0;
 }
